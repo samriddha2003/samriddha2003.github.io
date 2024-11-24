@@ -16,23 +16,13 @@ Welcome to my personal portfolio! This website is a showcase of my skills, proje
 - **Project Showcase**: A section to highlight my key projects with descriptions and links to the live versions or source code.
 - **Contact Form**: A simple contact form to get in touch with me.
 
-## Getting Started
-
-To view this portfolio:
-
-1. Clone the repository using the following command:
-    ```bash
-    git clone https://github.com/your-username/portfolio.git
-    ```
-2. Open the `index.html` file in your browser to view the portfolio.
-
 ## Demo
 
-You can view the live version of this portfolio at: [Link to Live Demo](https://yourportfolio.com)
+You can view the live version of this portfolio at: [Link to Live Demo](https://samriddha2003.github.io/)
 
 ## Contact
 
-Feel free to reach out to me through the contact form on the website or via email at: **your-email@example.com**.
+Feel free to reach out to me through the contact form on the website or via email at: **samriddhadas2003@gmail.com**.
 
 ---
 
